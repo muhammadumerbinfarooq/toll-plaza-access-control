@@ -14,7 +14,7 @@ This project provides a basic access control system for toll plaza using Dart.
 - Dart SDK
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/muhammadumermemon/toll-plaza-access-control.git `
+1. Clone the repository: `git clone https://github.com/muhammadumerbinfarooq/toll-plaza-access-control.git `
 2. Navigate to the project directory: `cd toll-plaza-access-control-dart`
 3. Run the program: `dart access_control.dart`
 
